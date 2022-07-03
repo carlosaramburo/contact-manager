@@ -13,7 +13,7 @@ Web application to perform CRUD operations on a contacts database.
 
 ## Demo
 The app was deployed with the assistance of AWS (EC2 and RDS).
-- Link: [Contact Manager](http://ec2-18-234-209-181.compute-1.amazonaws.com:3000)
+- Link: [Contact Manager](http://18.234.209.181:3000/)
 
 <p align="center">
     <img src="https://drive.google.com/uc?export=view&id=1iHFNSIoP1UePkyIVnwzZy-nzX7WFYoNx">
