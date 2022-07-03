@@ -1,0 +1,19 @@
+thead th:first-child {
+    border-radius: 10px 0 0 0;
+  }
+  thead th:last-child {
+    border-radius: 0 10px 0 0;
+  }
+
+tr td {
+    vertical-align: middle;
+}
+
+tr td:last-child {
+    width: 1%;
+    white-space: nowrap;
+}
+
+.contactForm {
+    width: 40%;
+}
